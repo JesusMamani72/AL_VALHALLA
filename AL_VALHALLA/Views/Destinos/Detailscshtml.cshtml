@@ -1,0 +1,11 @@
+﻿@model DestinoModel
+
+@{
+    ViewData["Title"] = "Detalles del Destino";
+}
+
+<h2>@Model.Nombre</h2>
+<img src="@Model.Imagen" alt="@Model.Nombre" />
+<p>@Model.Descripcion</p>
+<a asp-action="Reservar" asp-route-id="@Model.Id" class="btn btn-primary">Reservar</a>
+<a asp-action="Index" class="btn btn-secondary">Cancelar</a>

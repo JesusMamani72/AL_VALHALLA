@@ -1,0 +1,746 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\al_valhalla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\al_valhalla.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\migrations\\20240703151441_addpasswordtousers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\migrations\\20240703151441_addpasswordtousers.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\controllers\\destinoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\controllers\\destinoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\controllers\\administradorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\controllers\\recepcionistacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\al_valhalla.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\al_valhalla.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\recepcionista\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\recepcionista\\reservas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\models\\reservamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\models\\destinomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\models\\destinomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\recepcionista\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\migrations\\20240702224522_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\migrations\\20240702224522_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\destinos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\destinos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\migrations\\20240703151441_addpasswordtousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\migrations\\20240703151441_addpasswordtousers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\migrations\\20240702224522_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\migrations\\20240702224522_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\reportes\\destinospopulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\reportes\\destinospopulares.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\recepcionista\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\recepcionista\\reservas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\recepcionista\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\recepcionista\\reservas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\destinos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\destinos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\destinos\\createcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\destinos\\createcshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\destinos\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\destinos\\reservar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\destinos\\detailscshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\destinos\\detailscshtml.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\reportes\\reservasmensuales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\reportes\\reservasmensuales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\destinos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\destinos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\destinos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\destinos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|c:\\users\\victus\\desktop\\al-valhalla\\al_valhalla\\al_valhalla\\views\\administrador\\destinos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2479D3D-4663-4F7B-B0A1-806E440BA724}|AL_VALHALLA\\AL_VALHALLA.csproj|solutionrelative:al_valhalla\\views\\administrador\\destinos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AL_VALHALLA.csproj",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\AL_VALHALLA.csproj",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\AL_VALHALLA.csproj",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\AL_VALHALLA.csproj",
+              "RelativeToolTip": "AL_VALHALLA\\AL_VALHALLA.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T15:36:57.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T22:06:24.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AL_VALHALLA.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets",
+              "RelativeToolTip": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.targets",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T16:45:09.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NuGet.Config",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ToolTip": "C:\\Users\\VICTUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\NuGet\\NuGet.Config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T17:54:04.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.VisualStudio.Offline.config",
+              "DocumentMoniker": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ToolTip": "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T17:54:07.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:21:07.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:50:05.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AL_VALHALLA.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props",
+              "RelativeToolTip": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.g.props",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T16:45:08.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\UserModel.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:47:15.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AL_VALHALLA.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "AL_VALHALLA\\obj\\AL_VALHALLA.csproj.nuget.dgspec.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-03T16:45:06.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AL_VALHALLA.db",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\AL_VALHALLA.db",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\AL_VALHALLA.db",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\AL_VALHALLA.db",
+              "RelativeToolTip": "AL_VALHALLA\\AL_VALHALLA.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIKSURBVDhPrZXfS1NhGMe/EynnCI7roG2w3OaOa4vMcgV2YQjdeWV3QlBmECQIYlMKVMRQYnhRiSQUhQjd9D\u002BsC3HJbhTaav7YHMdIsoGghW5nO72Op9yB98hJ\u002BsDhPc/7fPmc9z0HzmsC8WggmAJUJ5VHYFpXCmgPhUKLNHGIqqolwofqyOgYVfoMDz6G2Wze3vm518qTltH4T9zp7BJOWSrCwWCwkab\u002BcizhGZtdV3os4QF60nIauWxsbiGxJsMvOWGrthbnBEEovscShPIyhNlYdVBwhb/29rH0eQ3Z/Sx2dncRX0kimZYhuR3o7eun1CHsAQLd8rccW07h\u002B1YGhUIegQYf8nkF6Y1vkL9uUkIfrrDR54GiKPA4HXCdtcPrrmV1Dhd8EiX00VlhErlcFrHEKlaSaSzFl1mdw4f5KCX04QptNSL7CGJREp5bQJ6ttlqsQnPTRUrowxXWiFZcb25CA9tixckT8HvduNFyDSlZRvfAIBY/xfAjk6G0Fq7wD7UOOzputsFb58KLV2/x8s0sztd78GxqGtOvZyil5UhhKX6prih70HWbfZxzqJfc1NFiWBj/ksBCNIqJ55OYj3xkV4Q6WgwL797qQM/9e4gwWX9vD54MD1FHi2GheNqKwOVLeP9uFlevBGCxVFJHi2GhUf67sOSP3ceOAJOBI4CHuj7\u002BdMIFAL8B2kWpjQLikHsAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-03T16:41:49.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAGIUAAAAAAAAAAAswIUUAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-03T16:36:23.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:45:38.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAtwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:32:58.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240703151441_AddPasswordToUsers.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.Designer.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.Designer.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.Designer.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:30:20.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240702224522_InitialCreate.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.Designer.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.Designer.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.Designer.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAtwAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:29:32.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Login\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-03T15:23:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240703151441_AddPasswordToUsers.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Migrations\\20240703151441_AddPasswordToUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:14:42.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240702224522_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Migrations\\20240702224522_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:45:23.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAxwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:31:14.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T22:11:48.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\appsettings.json",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\appsettings.json",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\appsettings.json",
+              "RelativeToolTip": "AL_VALHALLA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-02T22:11:33.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T22:11:18.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T22:08:01.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Program.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Program.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Program.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:01:08.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T22:00:07.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Details.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Details.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:59:57.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Create.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Create.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Recepcionista\\Reservas\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:59:43.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Recepcionista\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Recepcionista\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Recepcionista\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:58:07.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DestinosPopulares.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Reportes\\DestinosPopulares.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Reportes\\DestinosPopulares.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Reportes\\DestinosPopulares.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Reportes\\DestinosPopulares.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:55:51.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ReservasMensuales.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Reportes\\ReservasMensuales.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Reportes\\ReservasMensuales.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Reportes\\ReservasMensuales.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Reportes\\ReservasMensuales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:55:36.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:52:56.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Details.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Details.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:52:01.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Delete.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:51:32.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Edit.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:51:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Createcshtml.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Createcshtml.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Createcshtml.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Administrador\\Destinos\\Createcshtml.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Administrador\\Destinos\\Createcshtml.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:50:48.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Reservar.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Reservar.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Destinos\\Reservar.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Reservar.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Destinos\\Reservar.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:49:28.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Detailscshtml.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Detailscshtml.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Destinos\\Detailscshtml.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Detailscshtml.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Destinos\\Detailscshtml.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:49:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Index.cshtml",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Views\\Destinos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Views\\Destinos\\Index.cshtml",
+              "RelativeToolTip": "AL_VALHALLA\\Views\\Destinos\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T21:48:47.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DestinoModel.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\DestinoModel.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Models\\DestinoModel.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\DestinoModel.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Models\\DestinoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:47:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservaModel.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\ReservaModel.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Models\\ReservaModel.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Models\\ReservaModel.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Models\\ReservaModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAIA+wAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:47:36.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RecepcionistaController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\RecepcionistaController.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Controllers\\RecepcionistaController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\RecepcionistaController.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Controllers\\RecepcionistaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:45:33.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AdministradorController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\AdministradorController.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Controllers\\AdministradorController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\AdministradorController.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Controllers\\AdministradorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:45:10.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DestinosController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\DestinosController.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Controllers\\DestinosController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\DestinosController.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Controllers\\DestinosController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:44:12.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AL_VALHALLA\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\VICTUS\\Desktop\\AL-VALHALLA\\AL_VALHALLA\\AL_VALHALLA\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AL_VALHALLA\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:43:03.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

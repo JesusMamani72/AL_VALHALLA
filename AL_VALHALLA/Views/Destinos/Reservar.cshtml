@@ -1,0 +1,28 @@
+﻿@model ReservaModel
+
+@{
+    ViewData["Title"] = "Reservar";
+}
+
+<h2>Reservar en @Model.Destino.Nombre</h2>
+
+<form asp-action="Reservar" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="NombreCliente">Nombre Completo:</label>
+        <input type="text" class="form-control" name="NombreCliente" required />
+    </div>
+    <div class="form-group">
+        <label for="CI">CI:</label>
+        <input type="text" class="form-control" name="CI" required />
+    </div>
+    <div class="form-group">
+        <label for="CantidadPersonas">Cantidad de Personas:</label>
+        <input type="number" class="form-control" name="CantidadPersonas" required />
+    </div>
+    <div class="form-group">
+        <label for="Comprobante">Comprobante de Pago:</label>
+        <input type="file" class="form-control" name="Comprobante" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Aceptar</button>
+    <a asp-action="Index" asp-controller="Destinos" class="btn btn-secondary">Cancelar</a>
+</form>

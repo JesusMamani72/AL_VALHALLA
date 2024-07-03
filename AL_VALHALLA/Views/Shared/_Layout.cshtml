@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"] - AL VALHALLA</title>
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div>
+        <header>
+            <nav>
+                <ul>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Index">Inicio</a></li>
+                    <li><a asp-area="" asp-controller="Destinos" asp-action="Index">Destinos</a></li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Login">Login</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+        <footer>
+            <p>&copy; 2024 - AL VALHALLA</p>
+        </footer>
+    </div>
+    <script src="~/js/site.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

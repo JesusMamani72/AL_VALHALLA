@@ -1,0 +1,14 @@
+﻿@model ErrorViewModel
+
+<h1 class="text-danger">Error.</h1>
+<h2 class="text-danger">@Model.GetRequestId()</h2>
+
+@if (!string.IsNullOrEmpty(Model.GetRequestId()))
+{
+    <p>
+        <strong>Request ID:</strong> <code>@Model.GetRequestId()</code>
+    </p>
+}
+<p>
+    <a asp-action="Index" asp-controller="Home">Back to Home</a>
+</p>

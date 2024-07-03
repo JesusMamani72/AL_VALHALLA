@@ -1,0 +1,19 @@
+﻿@model List<DestinoModel>
+
+@{
+    ViewData["Title"] = "Destinos";
+}
+
+<h2>Destinos</h2>
+
+<ul>
+    @foreach (var destino in Model)
+    {
+        <li>
+            <img src="@destino.Imagen" alt="@destino.Nombre" />
+            <h3>@destino.Nombre</h3>
+            <p>@destino.Descripcion</p>
+            <a asp-action="Details" asp-route-id="@destino.Id">Ver Más</a>
+        </li>
+    }
+</ul>
